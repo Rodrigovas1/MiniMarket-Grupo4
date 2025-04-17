@@ -66,7 +66,7 @@ public class Cliente {
     
         // Métodos opcionales
         public void mostrarCliente() {
-            System.out.println("\n_____Datos del cliente_____");
+            System.out.println("\n_____Datos del cliente_____");// Esto es un cambio mínimo para un Pull Request
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad);
         System.out.println("Email: " + email);
